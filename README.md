@@ -3,7 +3,8 @@
 
 ## Description
 
-Welcome!  This website is designed to provide useful information about Search Engine Optimization (SEO) strategies and benefits.
+Welcome to the Horiseon website! This website is designed to provide useful information about Search Engine Optimization (SEO) strategies and benefits. By clicking the search button at the navigation bar, it will take you to the follwing sections: search engine, reputation management, and social media marketing. 
+
 
 
 ## Table of Contents
@@ -23,9 +24,11 @@ The Search Bar at the top has three different options:
 * Online Reputation Management
 * Social Media Marketing
 
-   20230101155149578.mp4
-Click on any of these topics to navigate to the relevant section below.
 
+
+
+
+   
 ## Credits
 
 N/A
