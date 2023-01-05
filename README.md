@@ -29,6 +29,8 @@ The Search Bar at the top has three different options:
 
 
    
+
+
 ## Credits
 
 N/A
